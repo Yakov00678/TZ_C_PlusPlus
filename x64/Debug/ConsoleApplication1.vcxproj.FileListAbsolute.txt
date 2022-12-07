@@ -1,0 +1,4 @@
+C:\Users\peach\Desktop\Проба\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\Project\GeyDef\Fntastic HR TZ\1\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\Project\GeyDef\Fntastic HR TZ\1\ConsoleApplication1 — копия\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\Project\GeyDef\Fntastic HR TZ\1\1Exercise\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
